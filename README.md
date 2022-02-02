@@ -1,5 +1,7 @@
 ### Welcome to the meon-translations repo! This is where you can find the translation files Meon uses and write your own translation.
 
+### Currently supported Languages: Turkish and English
+
 # Writing a translation for Meon
 
 1) The file's name should be in [ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) format. For example, if you are writing a translation in Spanish, the files name would be `es.json`.
