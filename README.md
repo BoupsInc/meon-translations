@@ -4,9 +4,11 @@
 
 # Writing a translation for Meon
 
-1) First, fork the [`en.json`](https://github.com/BoupsInc/meon-translations/blob/master/translations/en.json) file. **You have to edit this file and then open a Pull Request when you finish it.**
+1) First, go to the [`translations`](https://github.com/BoupsInc/meon-translations/blob/master/translations) folder and click "Add File".
 
-2) The file's name should be in [ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) format. For example, if you are writing a translation in Spanish, the files name would be `es.json`.
+2) Copy the entire content of [`en.json`](https://github.com/BoupsInc/meon-translations/blob/master/translations/en.json) and paste it to the file you just created.
+
+### IMPORTANT: The file's name should be in [ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) format. For example, if you are writing a translation in Spanish, the files name would be `es.json`.
 
 A small example of a Spanish translation:
 
