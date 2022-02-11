@@ -16,7 +16,7 @@
     "INFO_CC": "Liczba Komend",
     "INFO_TRANSLATORS": "Tłumacze",
     "PING": "Ping",
-    "UPTIME": "Czas pracy",
+    "UPTIME": "Czas Pracy",
     "INFO_TECH": "Technologia",
     "INFO_LANG": "Język",
     "INFO_LIBRARY": "Biblioteka",
@@ -228,7 +228,7 @@
     "PROFANITY_DEACTIVATED": "✅ Filtr anty-bluźnierstwowy został wyłączony",
     "NOW_SAFE_FROM_BAD_WORDS": "Twój serwer jest teraz chroniony przed złymi słowami.",
     "NO_LONGER_SAFE_FROM_BAD_WORDS": "Twój serwer już nie jest chroniony przed złymi słowami.",
-    "NOT_SET_UP_BAD_WORDS": "Nie dodałeś żadnych blokowanych słów Użyj komendy poniżej aby je dodać!\n`{ctx.prefix}antiswear block <word>, [word], [word], ...`",
+    "NOT_SET_UP_BAD_WORDS": "Nie dodałeś żadnych blokowanych słów Użyj komendy poniżej aby je dodać!\n`{ctx.prefix}antiswear block <słowo>, [słowo], [słowo], ...`",
     "TOGGLE_HELP": "Pomoc Odnośnie Przełączalnych Ustawień",
     "LIST_TOGGLE": "Oto lista ustawień które możesz włączyć lub wyłączyć.",
     "TOGGLE_HELP_COMMANDNOTFOUND": "Wyświetla komunikat o błędzie, gdy komenda której szukałeś nie istnieje.",
@@ -243,10 +243,10 @@
     "OFF": "WYŁĄCZONA",
     "BLOCKED_WORDS": "Blokowane Słowa",
     "NOT_SET": "Nie ustawiono",
-    "SET_BLOCKED_WORDS": "*Ustaw blokowane słowa komendą `{}antiswear block <word>, [word], [word] ...`, i resetuj je komendą `{}antiswear block disable`.*",
+    "SET_BLOCKED_WORDS": "*Ustaw blokowane słowa komendą `{}antiswear block <słowo>, [słowo], [słowo] ...`, i resetuj je komendą `{}antiswear block disable`.*",
     "LOG_CHANNEL": "Kanał z Logami",
-    "SET_LOG_CHANNEL": "*Ustaw kanały z logami komendą `{}antiswear log <channel>`, i resetuj je komendą `{}antiswear log disable`.*",
+    "SET_LOG_CHANNEL": "*Ustaw kanały z logami komendą `{}antiswear log <kanał>`, i resetuj je komendą `{}antiswear log disable`.*",
     "IGNORE_ROLE": "Ignorowane Role",
-    "SET_IGNORE_ROLE": "*Ustaw ignorowane role komendą `{}antiswear ignore <role>`, i resetuj je komendą `{}antiswear ignore disable`.*"
+    "SET_IGNORE_ROLE": "*Ustaw ignorowane role komendą `{}antiswear ignore <rola>`, i resetuj je komendą `{}antiswear ignore disable`.*"
   }
 }
