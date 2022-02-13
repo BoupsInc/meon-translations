@@ -15,7 +15,7 @@ A small example of a Spanish translation:
 ```json
 {
   "es": { 
-    "INFO_TITLE": "Meon Información"
+    "INFO_TITLE": "Información de Meon"
   }
 }
 ```
