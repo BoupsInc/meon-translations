@@ -34,6 +34,7 @@
     "MEMORY_USAGE": "Bellek Kullanımı",
     "TOTAL_SPACE": "Toplam Kapasite",
     "AVAILABLE_SPACE": "Kullanılabilir Kapasite",
+    "FREE_SPACE": "Boş Kapasite",
     "DISK_USAGE": "Disk Kullanımı",
     "NETWORK": "Ağ",
     "PACKETS_SENT": "Gönderilen Paketler",
@@ -247,6 +248,7 @@
     "LOG_CHANNEL": "Log Kanalı",
     "SET_LOG_CHANNEL": "*Log kanalını `{}antiswear log <kanal>` ile ayarlayın ve `{}antiswear log disable` ile sıfırlayın.*",
     "IGNORE_ROLE": "Rolü Görmezden Gelme",
-    "SET_IGNORE_ROLE": "*Log kanalını `{}antiswear ignore <rol>` ile ayarlayın ve `{}antiswear ignore disable` ile sıfırlayın.*"
+    "SET_IGNORE_ROLE": "*Log kanalını `{}antiswear ignore <rol>` ile ayarlayın ve `{}antiswear ignore disable` ile sıfırlayın.*",
+    "MESSAGE_CONTENT_EMPTY": "Mesajın içeriği boş olamaz!"
   }
 }
