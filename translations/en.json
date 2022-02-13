@@ -34,6 +34,7 @@
     "MEMORY_USAGE": "Memory Usage",
     "TOTAL_SPACE": "Total Space",
     "AVAILABLE_SPACE": "Available Space",
+    "FREE_SPACE": "Free Space",
     "DISK_USAGE": "Disk Usage",
     "NETWORK": "Network",
     "PACKETS_SENT": "Packets Sent",
@@ -247,6 +248,7 @@
     "LOG_CHANNEL": "Log Channel",
     "SET_LOG_CHANNEL": "*Set log channel with `{}antiswear log <channel>` and reset them with `{}antiswear log disable`.*",
     "IGNORE_ROLE": "Ignore Role",
-    "SET_IGNORE_ROLE": "*Set ignored role with `{}antiswear ignore <role>` and reset them with `{}antiswear ignore disable`.*"
+    "SET_IGNORE_ROLE": "*Set ignored role with `{}antiswear ignore <role>` and reset them with `{}antiswear ignore disable`.*",
+    "MESSAGE_CONTENT_EMPTY": "The message content cannot be empty!"
   }
 }
