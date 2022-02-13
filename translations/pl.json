@@ -34,6 +34,7 @@
     "MEMORY_USAGE": "Użycie Pamięci",
     "TOTAL_SPACE": "Ogólna Przestrzeń Dyskowa",
     "AVAILABLE_SPACE": "Dostępna Przestrzeń Dyskowa",
+    "FREE_SPACE": "Wolne miejsce",
     "DISK_USAGE": "Użycie Dysku",
     "NETWORK": "Sieć",
     "PACKETS_SENT": "Wysłane Pakiety",
@@ -247,6 +248,7 @@
     "LOG_CHANNEL": "Kanał z Logami",
     "SET_LOG_CHANNEL": "*Ustaw kanały z logami komendą `{}antiswear log <kanał>`, i resetuj je komendą `{}antiswear log disable`.*",
     "IGNORE_ROLE": "Ignorowane Role",
-    "SET_IGNORE_ROLE": "*Ustaw ignorowane role komendą `{}antiswear ignore <rola>`, i resetuj je komendą `{}antiswear ignore disable`.*"
+    "SET_IGNORE_ROLE": "*Ustaw ignorowane role komendą `{}antiswear ignore <rola>`, i resetuj je komendą `{}antiswear ignore disable`.*",
+    "MESSAGE_CONTENT_EMPTY": "Treść wiadomości nie może być pusta!"
   }
 }
