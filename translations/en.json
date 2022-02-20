@@ -190,7 +190,7 @@
     "EXAMPLE": "Example",
     "CHANGING_PREFIX": "Changing the prefix",
     "MEON_PREFIX_IN_GUILD": "Meon's prefix in **{}** is `{}` or `/`",
-    "CHANGING_PREFIX_DESC": "Add `{{s}}` to the end of your prefix if you want your prefix to have  a space at the end. Do `{}prefix reset` to reset the prefix.",
+    "CHANGING_PREFIX_DESC": "Add `{{s}}` to the end of your prefix if you want your prefix to have a space at the end. Do `{}prefix reset` to reset the prefix.",
     "ERROR_PREFIX": "Error changing prefix",
     "PREFIX_ERROR_SET_SLASH": "You cannot set the prefix as `/`!",
     "PREFIX_ERROR_OLD_PREFIX": "New prefix cannot be the same as old prefix!",
