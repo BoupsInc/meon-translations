@@ -34,6 +34,7 @@
     "MEMORY_USAGE": "Geheugengebruik",
     "TOTAL_SPACE": "Totale Ruimte",
     "AVAILABLE_SPACE": "Beschikbare Ruimte",
+    "FREE_SPACE": "Vrije Ruimte",
     "DISK_USAGE": "Schijfgebruik",
     "NETWORK": "Netwerk",
     "PACKETS_SENT": "Packets Verzonden",
@@ -246,6 +247,7 @@
     "LOG_CHANNEL": "Log Kanaal",
     "SET_LOG_CHANNEL": "*Stel het log kanaal in met `{}antiswear log <channel>` en reset het met `{}antiswear log disable`.*",
     "IGNORE_ROLE": "Genegeerde Rol",
-    "SET_IGNORE_ROLE": "*Stel de genegeerde rol in met `{}antiswear ignore <role>` en reset ze met `{}antiswear ignore disable`.*"
+    "SET_IGNORE_ROLE": "*Stel de genegeerde rol in met `{}antiswear ignore <role>` en reset ze met `{}antiswear ignore disable`.*",
+    "MESSAGE_CONTENT_EMPTY": "De inhoud van het bericht mag niet leeg zijn!"
   }
 }
