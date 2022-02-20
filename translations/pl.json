@@ -100,7 +100,7 @@
     "HYPIXEL_PLAYER_COUNT": "Liczba Graczy Na Hypixelu",
     "TOTAL_PLAYER_COUNT": "Ogólna Liczba Graczy",
     "LEGACY_GAMES": "Byłe Gry",
-    "REPLAY": "Opcja dla graczy z rangą MVP+ lub MVP++ która umożliwia ponowne odtworzenie byłych gier.",
+    "REPLAY": "Opcja dla graczy z jakąkolwiek rangą która umożliwia ponowne rozegranie byłych gier.",
     "LIMBO": "Tajemnicze miejsce do którego gracze są wsadzani jeśli nastąpi awaria ich połączenia lub gdy lobby zostanie zamknięte.",
     "QUEUE": "Gracze bez rangi wchodzą w kolejkę gdy serwer osiągnie 90-100 tysięcy graczy.",
     "MAIN_LOBBY": "Liczba Graczy w Głównym Lobby",
