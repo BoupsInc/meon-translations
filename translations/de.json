@@ -149,7 +149,6 @@
     "GUILD_NOT_FOUND": "Diese Gilde scheint nicht zu existieren!",
     "SB_PROFILE_NOT_FOUND": "Dieser Spieler hat kein SkyBlock Profil!",
     "ERROR_KICK": "Fehler beim Kicken des Nutzers",
-    "KICK_SELF": "If you don't want to be in the server just leave lol.",
     "KICK_SELF": "Wenn du nicht in dem Server sein willst, kannst du ihn auch einfach selbst verlassen lol.",
     "NICE_TRY": "Netter Versuch.",
     "SUCCESSFULLY_KICKED": "Nutzer erfolgreich gekickt",
