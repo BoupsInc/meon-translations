@@ -1,6 +1,6 @@
 ### Welcome to the meon-translations repo! This is where you can find the translation files Meon uses and write your own translation.
 
-### Currently supported Languages: Turkish, English, Polish, Spanish and Dutch
+### Currently supported Languages: Turkish, English, Polish, Spanish, Dutch and German
 
 # Writing a translation for Meon
 
