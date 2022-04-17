@@ -27,7 +27,7 @@
     "BOT_SYSTEM_INFO": "Informacje o Systemie Bota",
     "BOT_SYSTEM_DESC": "Dodatkowe informacje zostały podane, bo komenda została uruchomionia przez developera Meon.",
     "CPU_USAGE": "Użycie Procesora",
-    "CPU_COUNT": "Ilość Proceserów",
+    "CPU_COUNT": "Ilość Procesorów",
     "MEMORY": "Pamięć",
     "TOTAL_MEMORY": "Ogólna Pamięć",
     "AVAILABLE_MEMORY": "Dostępna Pamięć",
